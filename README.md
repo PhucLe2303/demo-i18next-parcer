@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A Guide to React Localization with i18next, i18next-parcer, i18next-http-backend, react-i18next
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
